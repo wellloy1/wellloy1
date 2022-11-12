@@ -11,4 +11,4 @@ WebSockets, Redis, RabbitMQ.
 
 In learning of Rust now (It's awesome!).  
 I'm mainly working on the backend/infrastructure side,   
-but I have strong skills on the frontend as well.
+but I have strong skills in the frontend and graphic design as well. 
