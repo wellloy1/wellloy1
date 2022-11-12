@@ -7,7 +7,7 @@ I'm working for tech companies on the following technologies:
 Node.js: +4 years of XP.  
 PostgreSQL: My go-to database for large server applications.  
 Docker: Worked with Docker in production for years.  
-Redis, RabbitMQ.  
+WebSockets, Redis, RabbitMQ.  
 
 In learning of Rust now (It's awesome!).  
 I'm mainly working on the backend/infrastructure side,   
