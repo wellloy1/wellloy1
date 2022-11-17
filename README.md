@@ -1,6 +1,6 @@
 Hi there!
 
-I am a software engineer from Israel, live in Netanya.
+I am a software engineer from Israel, Netanya.
 
 I'm working for tech companies on the following technologies:
 
