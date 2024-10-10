@@ -1,14 +1,14 @@
 Hi there!
 
-I am a software engineer from Israel, Netanya.
+I am a full-stack software engineer, live in Russia, Israel, Thailand.
 
 I'm working for tech companies on the following technologies:
 
-Node.js: +4 years of expirience.  
+Node.js: +4 years of experience.  
+C#/.NET: 2 years experience.
 PostgreSQL: My go-to database for large server applications.  
 Docker: Worked with Docker in production for years.  
 Nginx, Redis, RabbitMQ, WebSockets.  
-Frontend: React
+Frontend: React / Solid.js / Vue / Polymer
 
-I'm mainly working on the backend/infrastructure side,   
-but I have strong skills in the frontend and graphic design as well. 
+I have some skills in a graphic design (Photoshop, Corel DRAW, 3ds Max) and working with an AI tools as well. 
